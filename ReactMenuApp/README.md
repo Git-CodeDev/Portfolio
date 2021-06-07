@@ -1,0 +1,1 @@
+To run the site, you need to write "npm init", after that "json-server src/db.json" and "npm start" in the console.

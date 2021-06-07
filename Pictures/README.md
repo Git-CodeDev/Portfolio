@@ -1,0 +1,2 @@
+To run the site, you need to write "npm init", after that "gulp" in the console.
+But in this case POST requests will not work, so it's better to write "const dist = '../PicturesServer/'" in gulp.js and open the PicturesServer folder by Open Server or Mamp.

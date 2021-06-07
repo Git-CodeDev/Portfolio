@@ -1,0 +1,2 @@
+To run the site, you need to write "npm init", after that "gulp" in the console.
+After that, you will be redirected to the main page, to go to the second page, write in the address bar http://localhost:4000/modules
