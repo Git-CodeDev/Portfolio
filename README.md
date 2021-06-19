@@ -1,1 +1,1 @@
-You can view my code in projects here.
+Here you can view my code in projects.
