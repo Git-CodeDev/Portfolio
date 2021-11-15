@@ -4,8 +4,8 @@ const gulp = require("gulp");
 const webpack = require("webpack-stream");
 const browsersync = require("browser-sync");
 
-// const dist = "./dist/";
-const dist = "../PicturesServer/"
+const dist = "./dist/";
+//const dist = "../PicturesServer/"  //with POST requests (you need OpenServer || Maamp)
 
 gulp.task("copy-html", () => {
     return gulp.src("./src/index.html")
